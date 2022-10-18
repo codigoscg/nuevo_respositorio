@@ -1,3 +1,3 @@
 # nuevo_respositorio
 
-- Cristian Gonzalez
+- Cristian Gonzalezs
